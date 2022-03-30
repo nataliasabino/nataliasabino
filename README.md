@@ -4,6 +4,9 @@
 ## I am, Natália (❁´◡`❁) 
 Perfil dedicado aos meus estudos em Data Science e Data Engineer
 
+Perfil sobre estudos em Programação Fullstack: 
+<a href="https://github.com/sabinonatalia">Github</a>
+
 ### 🎯 Interesse:
 
 __________________________________________________________________________________________________________________________________________
@@ -17,8 +20,8 @@ ________________________________________________________________________________
 ### ⚡ GitHub Stats:
 <p align="center">
 
-![Natália GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinonatalia&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinonatalia&show_icons=true&theme=highcontrast)</p>
+![Natália GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliasabino&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliasabino&show_icons=true&theme=highcontrast)</p>
 
 __________________________________________________________________________________________________________________________________________
 ### Onde me encontrar 😊:
