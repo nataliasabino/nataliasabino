@@ -2,13 +2,13 @@
 
 # Hello!
 ## I am, Natália (❁´◡`❁) 
-Perfil dedicado aos meus estudos em Data Science e Data Engineer
+Perfil dedicado aos meus estudos em Data Science e Data Analytics 
 
 Perfil sobre estudos em Programação Fullstack: 
 <a href="https://github.com/sabinonatalia">Github</a>
 
 ### 🎯 Interesse:
-
+Python, SQL, Excel, Data Viz
 __________________________________________________________________________________________________________________________________________
 ### Ferramentas que uso 🚀💻:
 
