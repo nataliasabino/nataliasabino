@@ -8,7 +8,7 @@ Perfil sobre estudos em Programação Fullstack:
 <a href="https://github.com/sabinonatalia">Github</a>
 
 ### 🎯 Interesse:
-Python, SQL, Excel, Data Viz
+Python, SQL, Excel, Data-Viz
 __________________________________________________________________________________________________________________________________________
 ### Ferramentas que uso 🚀💻:
 
